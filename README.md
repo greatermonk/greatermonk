@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @greatermonk
 - 👀 I’m interested in machine learning and data science
-🌱: I'm currently learning python
-- 💞️ I’m looking to collaborate on Artifical Intelligence
+- 💞️ I’m looking to collaborate on Artifical Intelligence and Data Science.
 - 📫 How to reach me greatermonk@gmail.com
 
 <!---
